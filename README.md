@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I’m an undergraduate Computer Science student at
 - Email: wl75@rice.edu
 - Linkedin: https://www.linkedin.com/in/willaliou/
 
-Thanks for stopping by! Feel free to reach out if you want to connect, collaborate, or chat about data science, tech, or any of my projects.
+Thanks for stopping by! Feel free to reach out if you want to connect, collaborate, or chat!
 
 <!--
 **willaliou/willaliou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
