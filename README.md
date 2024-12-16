@@ -5,10 +5,8 @@ Welcome to my GitHub profile! I’m an undergraduate Computer Science student at
 # 👩‍💻 About Me
 - 😄 Pronouns: she/her
 - 📚 Currently: Pursuing a Bachelor in Computer Science with a Minor in Data Science at Rice University.
-- 🔍 Interests: Machine learning, human-computer interaction, data visualization, and systems optimization.
 - 🌱 Current Learning: Advancing my understanding of AI/ML through the Break Through Tech AI fellowship.
-- 📊 Skills: Java, Python, C, SQL, R Studio, Power BI, Tableau, Microsoft Suite (Excel, Power Automate, SharePoint), Data Science & Analytics
-  
+-   
 # DXC Technology Machine Learning Challenge Project (Break Through Tech AI Program):
 - Check out my team's project repository for the real-world ML project we worked on for DXC Technology for over 3 months, as part of the Break Through Tech AI Program's Fall 2024 AI Studio! https://github.com/jennifer-z-1/DXC_Tech_1A
 
