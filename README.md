@@ -1,7 +1,4 @@
 # Hi there, I'm Willa!👋
-
-Welcome to my GitHub profile! I’m an undergraduate Computer Science student at Rice University with a passion for combining technical expertise in programming and data science with impactful, user-focused research. I’m always looking to learn, build, and collaborate on innovative projects in data analytics, machine learning, and user interface design.
-
 # 👩‍💻 About Me
 - 😄 Pronouns: she/her
 - 📚 Currently: Pursuing a Bachelor in Computer Science with a Minor in Data Science at Rice University.
